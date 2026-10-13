@@ -21,7 +21,7 @@ The goal of this project is to build and maintain a hands-on Security Operations
 - [x] Repository and documentation initialized
 - [x] VMware Fusion installed and configured
 - [x] Windows 11 endpoint / VM configured
-- [ ] Linux endpoint / VM configured
+- [x] Linux endpoint / VM configured
 - [ ] Centralized logging / log shipper configuration
 - [ ] SIEM deployment and integration
 - [ ] Baseline telemetry and noise filtering
@@ -30,7 +30,6 @@ The goal of this project is to build and maintain a hands-on Security Operations
 ---
 
 ## Next Steps
-1. Finalize VM setup for Linux (Ubuntu) target.
-2. Configure audit policies and log ingestion (Windows Security Logs & Linux `auth.log`).
-3. Deploy a lightweight SIEM (e.g., Wazuh) to monitor events.
-4. Analyze at least 4 common security event scenarios (e.g., failed brute-force logins, privilege escalation).
+1. Configure audit policies and log ingestion (Windows Security Logs & Linux `auth.log`).
+2. Deploy a lightweight SIEM (e.g., Wazuh) to monitor events.
+3. Analyze at least 4 common security event scenarios (e.g., failed brute-force logins, privilege escalation).
